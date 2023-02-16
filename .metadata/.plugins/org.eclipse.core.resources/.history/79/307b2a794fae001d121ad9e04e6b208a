@@ -1,0 +1,29 @@
+package br.ce.wcaquino.servicos;
+
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
+
+import org.junit.Assert;
+import org.junit.Test;
+
+
+public class AssertTest {
+	
+	@Test
+	public void test () {
+		
+		assertTrue(true);
+		assertFalse(false);
+		
+		int i = 5;
+		Integer i2 = 5;
+		
+		Assert.assertEquals("bola", "bola");
+		Assert.assertNotEquals("bola", "casa");
+		Assert.assertTrue("bola".equalsIgnoreCase("Bola"));
+		Assert.assertTrue("bola".startsWith("Bo"));
+		
+		
+	}
+
+}

@@ -361,3 +361,23 @@
 2023-02-16 18:40:38,988 [Worker-39: Launching LocacaoService (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-02-16 18:40:38,989 [Worker-39: Launching LocacaoService (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\main\resources
 2023-02-16 18:40:38,991 [Worker-39: Launching LocacaoService (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 18:40:38,991 [Worker-39: Launching LocacaoService (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\test\resources
+2023-02-16 19:07:20,977 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:07:20,978 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\main\resources
+2023-02-16 19:07:20,979 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:07:20,979 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\test\resources
+2023-02-16 19:07:52,438 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:07:52,438 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\main\resources
+2023-02-16 19:07:52,439 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:07:52,439 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\test\resources
+2023-02-16 19:08:36,863 [Worker-32: Launching LocacaoService (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:08:36,864 [Worker-32: Launching LocacaoService (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\main\resources
+2023-02-16 19:08:36,865 [Worker-32: Launching LocacaoService (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:08:36,866 [Worker-32: Launching LocacaoService (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\test\resources
+2023-02-16 19:09:05,097 [Worker-44: Launching LocacaoServiceTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:09:05,097 [Worker-44: Launching LocacaoServiceTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\main\resources
+2023-02-16 19:09:05,098 [Worker-44: Launching LocacaoServiceTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:09:05,099 [Worker-44: Launching LocacaoServiceTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\test\resources
+2023-02-16 19:09:14,628 [Worker-45: Launching LocacaoServiceTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-02-16 19:09:14,629 [Worker-45: Launching LocacaoServiceTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Projetos\TDD\TestesUnitarios\src\main\resources
+2023-02-16 19:09:14,630 [Worker-45: Launching LocacaoServiceTest] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
